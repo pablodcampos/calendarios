@@ -1,0 +1,762 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tbl_cal_reservas//Excel//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:HMTHNE8ST4-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Check in - Marcus Vinicius
+LOCATION:C. do Litoral
+DESCRIPTION:Bem vindo\, Marcus. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMTHNE8ST4-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Check out - Marcus Vinicius
+LOCATION:C. do Litoral
+DESCRIPTION:Olá\, Marcus. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMXN9HSYX4-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Check in - Danielle De Abreu Miranda
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Danielle. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMXN9HSYX4-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Check out - Danielle De Abreu Miranda
+LOCATION:Contorno
+DESCRIPTION:Olá\, Danielle. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6396168255-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:Check in - Julia Makrakis Almeida
+LOCATION:Spazio Singular
+DESCRIPTION:Bem vindo\, Julia. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6396168255-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Check out - Julia Makrakis Almeida
+LOCATION:Spazio Singular
+DESCRIPTION:Olá\, Julia. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5529070988-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Check in - Tamy Oliveira Silva
+LOCATION:Temporada 001
+DESCRIPTION:Bem vindo\, Tamy. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5529070988-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:Check out - Tamy Oliveira Silva
+LOCATION:Temporada 001
+DESCRIPTION:Olá\, Tamy. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5051778498-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Check in - Adriana De Jesus Sousa
+LOCATION:Costa do Cacau
+DESCRIPTION:Bem vindo\, Adriana. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5051778498-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Check out - Adriana De Jesus Sousa
+LOCATION:Costa do Cacau
+DESCRIPTION:Olá\, Adriana. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMB4ANHZ53-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Check in - Hyago Machado
+LOCATION:C. do Litoral
+DESCRIPTION:Bem vindo\, Hyago. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMB4ANHZ53-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Check out - Hyago Machado
+LOCATION:C. do Litoral
+DESCRIPTION:Olá\, Hyago. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMET2YX2ED-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:Check in - Marci Sardela
+LOCATION:Spazio Singular
+DESCRIPTION:Bem vindo\, Marci. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMET2YX2ED-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Check out - Marci Sardela
+LOCATION:Spazio Singular
+DESCRIPTION:Olá\, Marci. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5610604443-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:Check in - Mónica Eberle
+LOCATION:Temporada 001
+DESCRIPTION:Bem vindo\, Mónica. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5610604443-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Check out - Mónica Eberle
+LOCATION:Temporada 001
+DESCRIPTION:Olá\, Mónica. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-CON-260112-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Check in - Kot
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Kot. Obrigado pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-CON-260112-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Check out - Kot
+LOCATION:Contorno
+DESCRIPTION:Olá\, Kot. Espero que tenha tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigado pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6015177083-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Check in - Maria Costa Costa
+LOCATION:C. do Litoral
+DESCRIPTION:Bem vindo\, Maria. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6015177083-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Check out - Maria Costa Costa
+LOCATION:C. do Litoral
+DESCRIPTION:Olá\, Maria. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6619722543-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Check in - Chantal Cayouette
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Chantal. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6619722543-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Check out - Chantal Cayouette
+LOCATION:Contorno
+DESCRIPTION:Olá\, Chantal. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-COS-260117-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Check in - Kot
+LOCATION:Costa do Cacau
+DESCRIPTION:Bem vindo\, Kot. Obrigado pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-COS-260117-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:Check out - Kot
+LOCATION:Costa do Cacau
+DESCRIPTION:Olá\, Kot. Espero que tenha tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigado pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5034169578-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:Check in - Jakeline Pivato
+LOCATION:Temporada 001
+DESCRIPTION:Bem vindo\, Jakeline. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5034169578-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Check out - Jakeline Pivato
+LOCATION:Temporada 001
+DESCRIPTION:Olá\, Jakeline. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5210734809-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Check in - Lana Souza
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Lana. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5210734809-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Check out - Lana Souza
+LOCATION:Contorno
+DESCRIPTION:Olá\, Lana. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-CDO-260125-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:Check in - Kot
+LOCATION:C. do Litoral
+DESCRIPTION:Bem vindo\, Kot. Obrigado pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-CDO-260125-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Check out - Kot
+LOCATION:C. do Litoral
+DESCRIPTION:Olá\, Kot. Espero que tenha tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigado pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6667523293-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Check in - Luciano Martins
+LOCATION:Costa do Cacau
+DESCRIPTION:Bem vindo\, Luciano. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6667523293-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Check out - Luciano Martins
+LOCATION:Costa do Cacau
+DESCRIPTION:Olá\, Luciano. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-SPA-260131-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Check in - Kot
+LOCATION:Spazio Singular
+DESCRIPTION:Bem vindo\, Kot. Obrigado pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-SPA-260131-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Check out - Kot
+LOCATION:Spazio Singular
+DESCRIPTION:Olá\, Kot. Espero que tenha tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigado pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMX9J8WZ9X-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Check in - Sarah Lakhdar
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Sarah. Obrigado pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMX9J8WZ9X-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Check out - Sarah Lakhdar
+LOCATION:Contorno
+DESCRIPTION:Olá\, Sarah. Espero que tenha tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigado pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMQXRF4DRX-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Check in - Sandro Macedo
+LOCATION:Temporada 001
+DESCRIPTION:Bem vindo\, Sandro. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMQXRF4DRX-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Check out - Sandro Macedo
+LOCATION:Temporada 001
+DESCRIPTION:Olá\, Sandro. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5006694557-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:Check in - Rayssa Rocha
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Rayssa. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5006694557-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Check out - Rayssa Rocha
+LOCATION:Contorno
+DESCRIPTION:Olá\, Rayssa. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6559714308-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Check in - Viviane Santos De Oliveira
+LOCATION:Costa do Cacau
+DESCRIPTION:Bem vindo\, Viviane. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6559714308-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Check out - Viviane Santos De Oliveira
+LOCATION:Costa do Cacau
+DESCRIPTION:Olá\, Viviane. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6728703164-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Check in - Bruna Martins
+LOCATION:Temporada 001
+DESCRIPTION:Bem vindo\, Bruna. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6728703164-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Check out - Bruna Martins
+LOCATION:Temporada 001
+DESCRIPTION:Olá\, Bruna. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HM9THZ2A4X-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Check in - Moritz Haibel
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Moritz. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HM9THZ2A4X-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:Check out - Moritz Haibel
+LOCATION:Contorno
+DESCRIPTION:Olá\, Moritz. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6134952820-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:Check in - Mauro Jose Monteiro De Sousa Filho Monteiro
+LOCATION:C. do Litoral
+DESCRIPTION:Bem vindo\, Mauro. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6134952820-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Check out - Mauro Jose Monteiro De Sousa Filho Monteiro
+LOCATION:C. do Litoral
+DESCRIPTION:Olá\, Mauro. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HM8SX4MXTF-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Check in - Timilehin Oyedeji
+LOCATION:Ipitanga 103
+DESCRIPTION:Bem vindo\, Timilehin. Obrigado pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HM8SX4MXTF-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:Check out - Timilehin Oyedeji
+LOCATION:Ipitanga 103
+DESCRIPTION:Olá\, Timilehin. Espero que tenha tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigado pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5731914443-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Check in - Simone Piologo Terahata
+LOCATION:Spazio Singular
+DESCRIPTION:Bem vindo\, Simone. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5731914443-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Check out - Simone Piologo Terahata
+LOCATION:Spazio Singular
+DESCRIPTION:Olá\, Simone. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:4465092494-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Check in - Nelma Santos
+LOCATION:Temporada 001
+DESCRIPTION:Bem vindo\, Nelma. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:4465092494-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Check out - Nelma Santos
+LOCATION:Temporada 001
+DESCRIPTION:Olá\, Nelma. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:4612857110-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Check in - Patricia Cristina
+LOCATION:Costa do Cacau
+DESCRIPTION:Bem vindo\, Patricia. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:4612857110-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Check out - Patricia Cristina
+LOCATION:Costa do Cacau
+DESCRIPTION:Olá\, Patricia. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-SPA-260216-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Check in - Kot
+LOCATION:Spazio Singular
+DESCRIPTION:Bem vindo\, Kot. Obrigado pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:EAB-SPA-260216-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Check out - Kot
+LOCATION:Spazio Singular
+DESCRIPTION:Olá\, Kot. Espero que tenha tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigado pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMEZ8ZBWNR-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Check in - Karo Okandeji
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Karo. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:HMEZ8ZBWNR-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:Check out - Karo Okandeji
+LOCATION:Contorno
+DESCRIPTION:Olá\, Karo. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6178753241-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Check in - Andrzej Schoenradt
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Andrzej. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6178753241-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Check out - Andrzej Schoenradt
+LOCATION:Contorno
+DESCRIPTION:Olá\, Andrzej. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5881780585-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:Check in - Szymon Lewicki
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Szymon. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5881780585-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Check out - Szymon Lewicki
+LOCATION:Contorno
+DESCRIPTION:Olá\, Szymon. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5842002056-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Check in - Selin Pedrosa
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Selin. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5842002056-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Check out - Selin Pedrosa
+LOCATION:Contorno
+DESCRIPTION:Olá\, Selin. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5526130904-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Check in - Sandra Guzman
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Sandra. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5526130904-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Check out - Sandra Guzman
+LOCATION:Contorno
+DESCRIPTION:Olá\, Sandra. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5570398997-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Check in - Bruno Livi
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Bruno. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5570398997-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Check out - Bruno Livi
+LOCATION:Contorno
+DESCRIPTION:Olá\, Bruno. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6218589529-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Check in - Umbelina Maria Correia Santos
+LOCATION:Temporada 001
+DESCRIPTION:Bem vindo\, Umbelina. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6218589529-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Check out - Umbelina Maria Correia Santos
+LOCATION:Temporada 001
+DESCRIPTION:Olá\, Umbelina. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6372851000-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Check in - Paulina Frontaura
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Paulina. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6372851000-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Check out - Paulina Frontaura
+LOCATION:Contorno
+DESCRIPTION:Olá\, Paulina. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6268639449-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Check in - Cassiele Palma
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Cassiele. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6268639449-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Check out - Cassiele Palma
+LOCATION:Contorno
+DESCRIPTION:Olá\, Cassiele. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5638529208-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Check in - Janaina Rangel
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Janaina. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5638529208-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Check out - Janaina Rangel
+LOCATION:Contorno
+DESCRIPTION:Olá\, Janaina. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6170759650-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Check in - Gianne Martina
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Gianne. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6170759650-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Check out - Gianne Martina
+LOCATION:Contorno
+DESCRIPTION:Olá\, Gianne. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:5596186999-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Check in - Gustavo Menezes
+LOCATION:Spazio Singular
+DESCRIPTION:Bem vindo\, Gustavo. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:5596186999-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Check out - Gustavo Menezes
+LOCATION:Spazio Singular
+DESCRIPTION:Olá\, Gustavo. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+BEGIN:VEVENT
+UID:6395218539-IN@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Check in - Pereira David
+LOCATION:Contorno
+DESCRIPTION:Bem vindo\, Pereira. Obrigados pela preferência e desejo uma excelente estadia.
+END:VEVENT
+BEGIN:VEVENT
+UID:6395218539-OUT@reservas
+DTSTAMP:20260109T140425Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Check out - Pereira David
+LOCATION:Contorno
+DESCRIPTION:Olá\, Pereira. Espero que tenham tido uma ótima estadia. O check-out é hoje até as 11:00. Obrigados pela preferência e tenha uma ótima viagem.
+END:VEVENT
+END:VCALENDAR
